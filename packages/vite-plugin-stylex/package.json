@@ -1,6 +1,6 @@
 {
   "name": "@mcrowe/vite-plugin-stylex",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "description": "Vite Plugin for StyleX",
   "author": "Horus Lugo <hola@horus.dev>",
   "license": "MIT",
